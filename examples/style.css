@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    text-align: center;
+    color: blanchedalmond
+}
+ul {
+    background-color: cyan;
+    color: rgb(122, 160, 95);
+}
+ol {
+    background-color: chocolate;
+}
+a {
+    color: rgb(255, 0, 0);
+}

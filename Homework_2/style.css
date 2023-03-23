@@ -1,0 +1,20 @@
+body {
+    background-color: cyan;
+    padding: 10%;
+}
+.block {
+    background-color: white;
+}
+.personal {
+    color: royalblue;
+}
+.team {
+    color:darkorange
+}
+.corporate {
+    color:brown
+}
+.box1 {
+    width: 400px;
+}
+

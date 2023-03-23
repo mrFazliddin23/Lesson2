@@ -1,0 +1,20 @@
+body {
+    background-color:gainsboro ;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.Norman {
+    margin: 0 20%;
+}
+.text {
+    display: flex;
+    width: 30%;
+    margin: 0 80% 
+}
+.Borlaug {
+    text-align: center;
+}

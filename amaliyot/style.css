@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+    margin: 0 60% ;
+
+}
+img {
+    margin-left: 240px;
+}
+body {
+    background-color: cyan;
+}
